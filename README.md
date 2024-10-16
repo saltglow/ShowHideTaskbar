@@ -21,4 +21,14 @@
 
 ### 特别鸣谢/Special thanks
 
-- 感谢来自[https://www.tenforums.com/tutorials/23817-turn-off-auto-hide-taskbar-desktop-mode-windows-10-a.html]的文章和教程,没有你们就没有这个脚本./Thanks to the article and tutorial from [https://www.tenforums.com/tutorials/23817-turn-off-auto-hide-taskbar-desktop-mode-windows-10-a.html], without you, there would be no script.
+- 感谢来自
+  
+  [https://www.tenforums.com/tutorials/23817-turn-off-auto-hide-taskbar-desktop-mode-windows-10-a.html]
+  
+  的文章和教程,没有你们就没有这个脚本.
+
+- Thanks to the article and tutorial from 
+  
+  [https://www.tenforums.com/tutorials/23817-turn-off-auto-hide-taskbar-desktop-mode-windows-10-a.html],
+  
+   without you, there would be no script.
